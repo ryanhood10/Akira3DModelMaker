@@ -16,7 +16,8 @@ const sections = [
         <li><span className="font-bold text-cyan-400">Capture environment light level:</span> Ensure textures are identifiable. Lighting conditions will be baked in.</li>
         <li><span className="font-bold text-cyan-400">Moving objects:</span> Avoid movement in the scene during capture to prevent artifacts.</li>
       </ul>
-    ),
+    ),   
+    
   },
   {
     title: "Camera Settings",
