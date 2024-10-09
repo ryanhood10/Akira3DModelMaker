@@ -292,13 +292,23 @@ function AnotherPage() {
     </div>
   </div>
 ) : (
-  <p className="flex p-2 text-white items-center">
+  <div className='mx-auto  p-2 text-white text-center'>
+  <p className="flex p-2 text-center">
     You can obtain an API Key from 
     <a href="https://lumalabs.ai/dream-machine/api/keys" className="text-blue-400 hover:text-blue-600 ml-1 flex items-center">
       Luma AI 
       <img className="h-4 ml-1" src={LumaLogo} alt="Luma Logo" />
     </a>
   </p>
+  <p>
+          Please read our{' '}
+          <Link to="/BestPractices" className="text-blue-400 underline hover:text-blue-600">
+            Best Practices
+          </Link>{' '}
+          page for further instructions.
+        </p>
+        </div>
+  
 )}
 
 
