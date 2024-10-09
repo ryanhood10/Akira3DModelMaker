@@ -1,4 +1,4 @@
-#!/Users/ryanhood/Desktop/Projects/3DModelMakerAI/backend/venv/bin/python3.11
+#!/Users/ryanhood/Desktop/Projects/AkiraSubDomain-Projects/3DModel/AI3DModelMaker/backend/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys

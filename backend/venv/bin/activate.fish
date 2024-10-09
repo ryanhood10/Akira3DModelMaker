@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/ryanhood/Desktop/Projects/3DModelMakerAI/backend/venv"
+set -gx VIRTUAL_ENV "/Users/ryanhood/Desktop/Projects/AkiraSubDomain-Projects/3DModel/AI3DModelMaker/backend/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
